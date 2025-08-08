@@ -17,7 +17,7 @@ Helix is a Machine Translation System developed by Calnic Solutions and incubate
 **Commands:**
 
 ```bash
-https://github.com/calnictest/Helix-Machine-Translation-Sampark-System.git
+https://github.com/LiteGeorgia/Helix-Machine-Translation-Sampark-System.git
 cd Helix-Machine-Translation-Sampark-System
 ```
 
