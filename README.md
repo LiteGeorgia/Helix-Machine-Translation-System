@@ -1,7 +1,7 @@
 # Helix Machine Translation System using Sampark
 
 ## About
-Helix is a Machine Translation System developed by Calnic Solutions and incubated in TWFTW International to translate text for low digital resource languages Powari & Mehra among other languages of India. Its open system can be used to develop other language pairs by incorporating language specific database. Tested on the available corpus of the Bible, HELIX can also translate General Domain text.
+Helix is a Machine Translation System developed by Calnic Solutions to translate text for low digital resource languages Powari & Mehra among other languages of India. Its open system can be used to develop other language pairs by incorporating language specific database. It is tested on the available community generated corpus.
 
 ## Table of Contents
 - [Installation](#installation)
