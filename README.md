@@ -437,7 +437,7 @@ mv language_file ~
 cd
 ```
 
-- Create a symbolic link named "sampark" that points to the "language_file" directory:
+- Create a symbolic link named "sampark" that points to the language_file directory:
 
 ```bash
 ln -s language_file sampark
