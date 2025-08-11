@@ -314,7 +314,7 @@ mv language_file ~
 cd
 ```
 
-- Create a symbolic link named "sampark" that points to the "sampark-hin-hb-0.1" directory:
+- Create a symbolic link named "sampark" that points to the language_file directory:
 
 ```bash
 ln -s language_file sampark
