@@ -10,7 +10,7 @@ Helix is a Machine Translation System developed by Calnic Solutions to translate
 
 ---
 
-## Usage
+## Installation
 
 ### Download or Clone system repository from git.
 
@@ -23,8 +23,6 @@ cd Helix-Machine-Translation-Sampark-System
 ```
 
 ---
-
-## Installation
 
 > Below mentioned language system mainly installed and tested in Ubuntu Operating Systems.  
 > Dependency Software Requirements: Java, CRF++, DashboardTool
@@ -396,6 +394,9 @@ cd
 ```bash
 mkdir OUTPUT.tmp
 ```
+
+## Usage
+
 - Run Dashboard:
   
 ```bash
