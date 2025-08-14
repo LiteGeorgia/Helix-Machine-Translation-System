@@ -352,9 +352,9 @@ vi sampark/bin/sys/hin_tel/hin_tel_setu.spec
 
 #Example:
 
-#<ENV>$setu=/home/trmt/sampark ➜ <ENV>$setu=/home/calnic/sampark
+#<ENV>$setu=/home/trmt/sampark ➜ <ENV>$setu=/home/{system_name}/sampark
 #Also change the system name above “%SYSTEM%” code.
-#<OUTPUT_DIR>/home/trmt/OUTPUT.tmp ➜ <OUTPUT_DIR>/home/calnic/OUTPUT.tmp
+#<OUTPUT_DIR>/home/trmt/OUTPUT.tmp ➜ <OUTPUT_DIR>/home/{system_name}/OUTPUT.tmp
 ```
 - Save and Exit
 ---
@@ -456,9 +456,9 @@ vi sampark/bin/sys/hin_tel/hin_tel_setu.spec
 
 #Example:
 
-#<ENV>$setu=/home/trmt/sampark ➜ <ENV>$setu=/home/calnic/sampark
+#<ENV>$setu=/home/trmt/sampark ➜ <ENV>$setu=/home/{system_name}/sampark
 #Also change the system name above “%SYSTEM%” code.
-#<OUTPUT_DIR>/home/trmt/OUTPUT.tmp ➜ <OUTPUT_DIR>/home/calnic/OUTPUT.tmp
+#<OUTPUT_DIR>/home/trmt/OUTPUT.tmp ➜ <OUTPUT_DIR>/home/{system_name}/OUTPUT.tmp
 ```
 - Save and Exit
 - Navigate to home:
