@@ -1,7 +1,7 @@
-# Helix Machine Translation System using Sampark
+# Helix Machine Translation System
 
 ## About
-Helix is a Machine Translation System developed by Calnic Solutions to translate text for low digital resource languages Powari & Mehra among other languages of India. Its open system can be used to develop other language pairs by incorporating language specific database. It is tested on the available community generated corpus.
+Helix is a Machine Translation System to translate text for low digital resource languages Powari & Mehra among other languages of India. Its open system can be used to develop other language pairs by incorporating language specific database. It is tested on the available community generated corpus.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,8 +18,8 @@ Helix is a Machine Translation System developed by Calnic Solutions to translate
 
 ```bash
 cd
-git clone https://github.com/LiteGeorgia/Helix-Machine-Translation-Sampark-System.git
-cd Helix-Machine-Translation-Sampark-System
+git clone https://github.com/LiteGeorgia/Helix-Machine-Translation-System.git
+cd Helix-Machine-Translation-System
 ```
 
 ---
