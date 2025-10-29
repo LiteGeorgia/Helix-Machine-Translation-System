@@ -149,7 +149,7 @@ sudo apt-get install libgdbm-dev libglib2.0-dev
 
 ```bash
 cd
-cd Helix-Machine-Translation-Sampark-System
+cd Helix-Machine-Translation-System
 ```
  
 - Extract CRF++ File
@@ -265,8 +265,8 @@ mkdir mymorph
 - Assign the values in the current directory to setu:
 
 ```bash
-export setu=/home/{user_name}/Helix-Machine-Translation-Sampark-System/hin-morph
-#Example: setu=/home/calnic/Helix-Machine-Translation-Sampark-System/hin-morph
+export setu=/home/{user_name}/Helix-Machine-Translation-System/hin-morph
+#Example: setu=/home/system/Helix-Machine-Translation-System/hin-morph
 ```
 
 - Navigate to src/sl/morph/hin/:
@@ -293,7 +293,7 @@ make install
 
 **Commands:**
 
-- Navigate to Helix-Machine-Translation-Sampark-System, Un-tar language_file and move it to home:
+- Navigate to Helix-Machine-Translation-System, Un-tar language_file and move it to home:
 
 ```bash
 cd ../../../../..
